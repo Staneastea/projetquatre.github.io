@@ -650,8 +650,8 @@ label,
 .btn,
 a {
     font-family: "helvetica";
-    font-weight: 500;
-    color: #ffffff!important;
+    font-weight: 400;
+    color: #000000!important;
 }
 
 .container {
@@ -799,7 +799,7 @@ h4 {
 }
 
 .ltc-atomic-tangerine {
-    color: #aa4d22!important;
+    color: #F3976C!important;
 }
 
 .ltc-atomic-tangerine:hover {
